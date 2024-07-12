@@ -9,6 +9,9 @@
   </div>
 </div>
 
+[![Open Video](https://img.shields.io/badge/Open%20Video-Play%20on%20Google%20Drive-red)]([https://drive.google.com/file/d/YOUR_FILE_ID/view](https://drive.google.com/file/d/1tRK5Ihx4TrYugnS8LIqgaHwoAq3VJr0_/view?usp=sharing)) `Click to watch the Sample Video`
+
+
 ## 🤖 Introduction
 
 This is a clone of Apple's iPhone 15 Pro website using React.js and TailwindCSS. It highlights the effective use of GSAP (Greensock Animations) and Three.js for displaying iPhone 15 Pro models in various colors and shapes.
