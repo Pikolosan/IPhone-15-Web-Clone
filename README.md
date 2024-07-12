@@ -10,7 +10,8 @@
 </div>
 <div align="center">
    Sample Video : https://drive.google.com/file/d/1tRK5Ihx4TrYugnS8LIqgaHwoAq3VJr0_/view?usp=sharing
-</div>div>
+</div>
+<br>
 ## 🤖 Introduction
 
 This is a clone of Apple's iPhone 15 Pro website using React.js and TailwindCSS. It highlights the effective use of GSAP (Greensock Animations) and Three.js for displaying iPhone 15 Pro models in various colors and shapes.
