@@ -9,7 +9,7 @@
   </div>
 </div>
 
-[![Sample Video](https://img.shields.io/badge/Open%20Video-red)]([https://drive.google.com/file/d/YOUR_FILE_ID/view](https://drive.google.com/file/d/1tRK5Ihx4TrYugnS8LIqgaHwoAq3VJr0_/view?usp=sharing)) 
+[![Sample Video][(https://img.shields.io/badge/Open%20Video-red](https://img.shields.io/badge/Open%20Video-Play%20on%20Google%20Drive-red))]([https://drive.google.com/file/d/YOUR_FILE_ID/view](https://drive.google.com/file/d/1tRK5Ihx4TrYugnS8LIqgaHwoAq3VJr0_/view?usp=sharing)) 
 
 
 ## 🤖 Introduction
