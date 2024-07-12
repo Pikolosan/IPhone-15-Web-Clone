@@ -9,7 +9,7 @@
   </div>
 </div>
 <div align="center">
-   [Sample Video](https://drive.google.com/file/d/1tRK5Ihx4TrYugnS8LIqgaHwoAq3VJr0_/view?usp=sharing){: .btn .btn-blue }
+   Sample Video : https://drive.google.com/file/d/1tRK5Ihx4TrYugnS8LIqgaHwoAq3VJr0_/view?usp=sharing
 </div>div>
 ## 🤖 Introduction
 
