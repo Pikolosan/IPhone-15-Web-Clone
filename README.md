@@ -9,8 +9,7 @@
   </div>
 </div>
 <div align="center">
-  > :Buttons
-  > > :Button label=Sample-Video, url=[https://github.com](https://drive.google.com/file/d/1tRK5Ihx4TrYugnS8LIqgaHwoAq3VJr0_/view?usp=sharing)
+   [Sample Video]([https://just-the-docs.com](https://drive.google.com/file/d/1tRK5Ihx4TrYugnS8LIqgaHwoAq3VJr0_/view?usp=sharing)){: .btn .btn-blue }
 </div>div>
 ## 🤖 Introduction
 
