@@ -8,30 +8,7 @@
   <h3 align="center">iPhone 15 Website</h3>
   </div>
 </div>
-<button class="btn1" onclick="openVideo()">Click to watch the video</button>
-<script>
-    function openVideo() {
-        window.open("https://drive.google.com/file/d/1tRK5Ihx4TrYugnS8LIqgaHwoAq3VJr0_/view?usp=sharing", "_blank");
-    }
-</script>
-<style>
-  .btn1 {
-  color : rgb(49, 46, 46);
-  background-color: rgba(255, 222, 121, 0.96);
-  border-radius: 10px 0 0 10px;
-  font-size: 16px;
-}
-
-.btn1:not([disabled]):hover {
-  background-color: rgba(107, 103, 91, 0.96);
-  color: white;
-}
-
-.btn1[disabled] {
-  color : rgb(187, 187, 187);
-  background-color: rgba(230, 230, 229, 0.96);
-}
-</style>
+> > :Button label=Sample-Video, url=[https://github.com](https://drive.google.com/file/d/1tRK5Ihx4TrYugnS8LIqgaHwoAq3VJr0_/view?usp=sharing)
 
 ## 🤖 Introduction
 
