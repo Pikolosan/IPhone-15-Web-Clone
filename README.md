@@ -10,6 +10,8 @@
 </div>
 <div align="center">
    Sample Video : https://drive.google.com/file/d/1tRK5Ihx4TrYugnS8LIqgaHwoAq3VJr0_/view?usp=sharing
+  <br>
+    To Visit The Site Directly [Click Here](https://pikolosan.github.io/IPhone15-Pro-Hosting/)
 </div>
 <br>
 
